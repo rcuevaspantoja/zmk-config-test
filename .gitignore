@@ -1,0 +1,10 @@
+.DS_Store
+
+.zmk/
+.west
+config/bootloader/
+config/build/
+config/buils.sh
+config/modules/
+config/tools/
+config/zephyr/
